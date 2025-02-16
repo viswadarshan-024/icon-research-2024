@@ -23,7 +23,7 @@ Masked word prediction plays a crucial role in **Tamil NLP**, especially in impr
 ## Citation
 ```
 @inproceedings{yourcitation,
-  author = {Your Name, Co-Author Name},
+  author = {Viswadarshan R R, Viswaa Selvam S, Felcia Lilian J, Mahalakshmi S},
   title = {Enhancing Masked Word Prediction in Tamil Language Models: A Synergistic Approach Using BERT and SBERT},
   booktitle = {Proceedings of ICON 2024},
   year = {2024},
